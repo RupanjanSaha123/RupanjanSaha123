@@ -14,14 +14,18 @@
 - 📦 Package Managers: npm, yarn
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rupanjan-saha/))
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RupanjanSaha123)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupanjan-saha/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RupanjanSaha123)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SahaRupanj19476)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rupanjan1203)
+
 
 ## 📌 Projects
 Here are a few things I've built so far:
-- [Portfolio Website](https://your-portfolio-link.com)
-- [Weather App](https://github.com/RupanjanSaha123/weather-app)
-- [To-Do List](https://github.com/RupanjanSaha123/todo-app)
+- [Simple Calculator]((https://github.com/RupanjanSaha123/CALCULATOR))
+- [Weather App]((https://github.com/RupanjanSaha123/Weatherforecast-app))
+
 
 ## 📈 GitHub Stats
 ![Rupanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupanjanSaha123&show_icons=true&theme=tokyonight)
