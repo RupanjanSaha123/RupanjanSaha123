@@ -23,8 +23,9 @@
 
 ## 📌 Projects
 Here are a few things I've built so far:
-- [Simple Calculator]((https://github.com/RupanjanSaha123/CALCULATOR))
-- [Weather App]((https://github.com/RupanjanSaha123/Weatherforecast-app))
+- [Simple Calculator](https://github.com/RupanjanSaha123/CALCULATOR)
+- [Weather App](https://github.com/RupanjanSaha123/Weatherforecast-app)
+
 
 
 ## 📈 GitHub Stats
