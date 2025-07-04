@@ -31,6 +31,9 @@ Here are a few things I've built so far:
 ![Rupanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupanjanSaha123&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupanjanSaha123&layout=compact&theme=tokyonight)
 
+🔥 GitHub Streak Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=RupanjanSaha123&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/> </p>
+
 
 <!---
 RupanjanSaha123/RupanjanSaha123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
