@@ -27,7 +27,7 @@ What are you doing here? Go and check out my repos.
 🔥 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RupanjanSaha123&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=DD2727&currStreakLabel=5BCDEC" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=RupanjanSaha123&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=DD2727&currStreakLabel=5BCDEC" alt="GitHub Streak" />
 </p>
 
 
