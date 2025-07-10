@@ -24,14 +24,20 @@
 What are you doing here? Go and check out my repos.
 
 
+🔥 GitHub Stats & Streak
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RupanjanSaha123&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
-## 📈 GitHub Stats
-![Rupanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupanjanSaha123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupanjanSaha123&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RupanjanSaha123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-🔥 GitHub Streak Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=RupanjanSaha123&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupanjanSaha123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 
 <!---
