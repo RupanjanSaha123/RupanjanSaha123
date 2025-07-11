@@ -1,43 +1,84 @@
-# 👋 Hi, I’m @RupanjanSaha123
+<h1 align="center">Hi 👋, I'm Rupanjan Saha</h1>
+<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🌐 Web Explorer</h3>
 
-## 🌐 About Me
-- 👀 I’m interested in **Web Development**
-- 🌱 I’m currently learning **Frontend Development** (HTML, CSS, JavaScript, React)
-- 💞️ I’m looking to collaborate with **Tech Enthusiasts**
-- 😄 Pronouns: **He/Him**
-- 📫 How to reach me: [LinkedIn]((https://www.linkedin.com/in/rupanjan-saha/))
-## 🛠️ Tech Stack
+---
 
-| 💻 Languages | ⚛️ Library | 🎨 Tools | 📦 Package Managers |
-|-------------|-------------|-----------|----------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?logo=Bootstrap&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)| ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/Chrome--DevTools-4285F4?logo=googlechrome&logoColor=white) | ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white) |
+## 🧑‍💻 About Me
 
-## 🔗 Connect with Me
+- 🔭 I’m currently working on **fun frontend projects** and learning **UI/UX with Figma**
+- 🌱 I’m currently learning **Python** and deepening my skills in **React & Tailwind**
+- 🧠 I regularly use **HTML, CSS, JavaScript, Bootstrap, Tailwind, and React**
+- 💡 I love integrating APIs to bring websites to life
+- 💻 I work with **VS Code**, **GitHub**, and version control workflows
+- 🎨 Learning to design beautiful interfaces with **Figma**
+- 📚 Always open to learning and exploring new tools & technologies!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupanjan-saha/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RupanjanSaha123)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SahaRupanj19476)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rupanjan1203)
+---
 
+## 🔗 Connect With Me
 
-## 📌 Projects
-What are you doing here? Go and check out my repos.
-
-
-🔥 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=RupanjanSaha123&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=DD2727&currStreakLabel=5BCDEC" alt="GitHub Streak" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/rupanjansaha/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:rupanjansaha123@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="https://github.com/RupanjanSaha123" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
 </p>
 
+---
+
+## 🛠️ Skills & Tools
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=api&logoColor=white" />
+</p>
+
+### 🎨 UI/UX & Design
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireframing-8E44AD?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prototyping-3498DB?style=flat-square&logoColor=white" />
+</p>
+
+### 💻 Development Tools
+<p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+### 🚀 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/UI/UX-F7A400?style=flat-square&logo=figma&logoColor=black" />
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RupanjanSaha123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RupanjanSaha123&show_icons=true&theme=tokyonight" alt="Rupanjan's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RupanjanSaha123&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupanjanSaha123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupanjanSaha123&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
 </p>
+
+---
+
+## 🧠 Fun Fact
+
+> “Great design is born of two things: simplicity and clarity.”  
+> Let’s build beautiful, functional experiences together. 🚀
+
+---
 
 
 
