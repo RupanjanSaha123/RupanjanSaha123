@@ -58,7 +58,7 @@
 
 ---
 
-## 🧠 Fun Fact
+## 🧠 Fact
 
 > “Great design is born of two things: simplicity and clarity.”  
 > Let’s build beautiful, functional experiences together. 🚀
