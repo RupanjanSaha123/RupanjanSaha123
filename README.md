@@ -45,23 +45,24 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,py,git,github,vscode" alt="Tech icons" />
 </div>
 
-<!-- Stats -->
-<h2 align="center">📊 Coding Activity</h2>
+## 📈 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top langs" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="Streak stats" />
-</div>
-
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%"/>
-
-<!-- Fun Fact -->
-<h2 align="center">✨ Did You Know?</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=1000&color=FFA07A&center=true&vCenter=true&width=500&lines=Great+design+is+born+of+two+things%3A;Simplicity+and+clarity;Let's+build+something+amazing+together+🚀" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RupanjanSaha123&show_icons=true&theme=tokyonight" alt="Rupanjan's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RupanjanSaha123&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
-<!-- Footer -->
-<img src="https://raw.githubusercontent.com/andreivictor/andreivictor/main/wave.svg" width="100%" height="150" alt="footer wave" style="margin-top: 20px;"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupanjanSaha123&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
+</p>
+
+---
+
+## 🧠 Fun Fact
+
+> “Great design is born of two things: simplicity and clarity.”  
+> Let’s build beautiful, functional experiences together. 🚀
+
+---
+
+
