@@ -3,19 +3,6 @@
   <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rupanjan+Saha;Frontend+Developer;UI%2FUX+Enthusiast;Web+Explorer" alt="Typing SVG" />
 
-  <!-- Social Links -->
-  <p align="center">
-    <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rupanjansaha/)" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:rupanjansaha123@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="[https://github.com/yourusername](https://github.com/RupanjanSaha123)" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
-
   <!-- Profile Card -->
   <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 600px;">
     <p style="font-size: 1.1em;">🎨 <b>Pixel Perfectionist</b> | ⚡ <b>React Learner</b> | 🛠️ <b>API Integrator</b></p>
@@ -56,6 +43,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupanjanSaha123&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
 </p>
 
+📬 Get in Touch
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rupanjan-saha/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
+<a href="https://x.com/SahaRupanj19476" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="Twitter"></a>
+<a href="mailto:rupanjan1203@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
+<a href="https://portfolio-one-dun-68.vercel.app/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio"></a>
+</p>
 ---
 
 ## 🧠 Fact
