@@ -29,7 +29,7 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,py,bootstrap,git,github,vscode,sass" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,sass,figma,py,bootstrap,git,github" alt="Tech icons" />
 </div>
 
 ## 📈 GitHub Stats
