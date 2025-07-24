@@ -45,43 +45,7 @@
 
 📬 Get in Touch
 
-import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
-
-<motion.section
-  className="py-16 px-6 text-center bg-gray-950"
-  initial={{ opacity: 0, y: 50 }}
-  animate={{ opacity: 1, y: 0 }}
-  transition={{ duration: 0.8 }}
->
-  <h2 className="text-4xl font-semibold mb-8">📬 Connect With Me</h2>
-  <div className="flex justify-center gap-10 text-4xl">
-    <a
-      href="https://github.com/RupanjanSaha123"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="hover:text-purple-400 transition duration-300"
-      title="GitHub"
-    >
-      <FaGithub />
-    </a>
-    <a
-      href="https://www.linkedin.com/in/rupanjan-saha-509b39244"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="hover:text-blue-400 transition duration-300"
-      title="LinkedIn"
-    >
-      <FaLinkedin />
-    </a>
-    <a
-      href="mailto:rupanjansaha123@gmail.com"
-      className="hover:text-red-400 transition duration-300"
-      title="Email"
-    >
-      <FaEnvelope />
-    </a>
-  </div>
-</motion.section>
+<p align="center"> <a href="https://github.com/RupanjanSaha123" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/rupanjan-saha-509b39244" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:rupanjansaha123@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
 ---
 
