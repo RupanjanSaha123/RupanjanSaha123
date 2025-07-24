@@ -45,12 +45,44 @@
 
 📬 Get in Touch
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rupanjan-saha/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="https://x.com/SahaRupanj19476" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="Twitter"></a>
-<a href="mailto:rupanjan1203@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
-<a href="https://portfolio-one-dun-68.vercel.app/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio"></a>
-</p>
+import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
+
+<motion.section
+  className="py-16 px-6 text-center bg-gray-950"
+  initial={{ opacity: 0, y: 50 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.8 }}
+>
+  <h2 className="text-4xl font-semibold mb-8">📬 Connect With Me</h2>
+  <div className="flex justify-center gap-10 text-4xl">
+    <a
+      href="https://github.com/RupanjanSaha123"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-purple-400 transition duration-300"
+      title="GitHub"
+    >
+      <FaGithub />
+    </a>
+    <a
+      href="https://www.linkedin.com/in/rupanjan-saha-509b39244"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-blue-400 transition duration-300"
+      title="LinkedIn"
+    >
+      <FaLinkedin />
+    </a>
+    <a
+      href="mailto:rupanjansaha123@gmail.com"
+      className="hover:text-red-400 transition duration-300"
+      title="Email"
+    >
+      <FaEnvelope />
+    </a>
+  </div>
+</motion.section>
+
 ---
 
 ## 🧠 Fact
