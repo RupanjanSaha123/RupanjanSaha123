@@ -16,11 +16,11 @@
   <summary><h2>🌟 About Me</h2></summary>
   <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin: 10px 0;">
     <pre>
-💻 Code for fun.
-🌱 Currently growing my Python and React Native skills
+💻 Code for fun ,ummm really?.
+🌱 Currently growing my Python and React Native skills.
 🎨 Obsessed with design systems and component libraries
 🔌 Love connecting frontends to powerful backends via APIs
-📚 Constant learner - currently exploring Three.js animations
+📚 Constant learner - currently exploring Three.js animations(LOL)
     </pre>
   </div>
 </details>
