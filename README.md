@@ -26,7 +26,7 @@
 </details>
 
 <!-- Skills -->
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center"> I May know This</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,sass,figma,py,bootstrap,git,github" alt="Tech icons" />
