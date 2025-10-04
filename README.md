@@ -81,6 +81,3 @@
 
 ---
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=RupanjanSaha123&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />  
-</p>
