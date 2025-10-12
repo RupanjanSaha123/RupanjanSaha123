@@ -33,7 +33,9 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,figma,vscode,py,c,git,github" alt="Tech Icons" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
 </div>
+
 
 ---
 
