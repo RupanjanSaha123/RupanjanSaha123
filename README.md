@@ -54,9 +54,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RupanjanSaha123&theme=radical&margin-w=10&margin-h=10&no-frame=true&column=6" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RupanjanSaha123&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
 
 ---
 
