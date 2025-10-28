@@ -32,9 +32,16 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
+  <!-- Existing Tech Stack Icons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,figma,vscode,py,c,git,github" alt="Tech Icons" />
+  <!-- Pandas Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
+  <!-- Numpy Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="48" height="48"/>
+  <!-- Matplotlib Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
 </div>
+
 
 
 ---
