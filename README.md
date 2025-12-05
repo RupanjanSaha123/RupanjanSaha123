@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Rupanjan+Saha+%7C+Developer+%7C+ECE+Engineer;I+Build+Tools+That+Make+Engineering+Concepts+Come+Alive+🚀;Welcome+to+My+Project+Showcase!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Rupanjan+Saha+%7C+Developer+%7C+ECE+Student;I+Build+Tools+That+Make+Engineering+Concepts+Come+Alive+;Welcome+to+My+Project+Showcase!" />
 </p>
 
 ---
@@ -23,9 +23,7 @@ interactive apps, engineering tools, and visually rich learning applications.
 **Tech:** Python, NumPy, SciPy, Matplotlib, Tkinter  
 **Category:** Electronics • Signals & Systems • GUI  
 📌 *Interactive tool to visualize signals live using Python.*  
-<p align="center">
-  <img width="600" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif"/>
-</p>
+
 
 ### 🔥 Highlights:
 - Live plotting (sine, cosine, custom signals)
@@ -38,9 +36,7 @@ interactive apps, engineering tools, and visually rich learning applications.
 **Category:** EDC (Electronics Device & Circuits)  
 📌 *Plots diode/BJT/MOSFET characteristics automatically.*
 
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+
 
 ### 🔥 Highlights:
 - IV Characteristics visualization  
@@ -54,9 +50,7 @@ interactive apps, engineering tools, and visually rich learning applications.
 **Category:** UI/UX • Web Dev  
 📌 *Small creative web experiments as I learn frontend.*
 
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
-</p>
+
 
 ### 🔥 Highlights:
 - Glassmorphism designs  
@@ -87,13 +81,6 @@ A group of Python apps I'm building that help students understand complex topics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupanjanSaha123&theme=tokyonight" />
-</p>
-
----
-
-# 🐍 Contribution Graph (Animated Snake)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -152,6 +139,6 @@ A group of Python apps I'm building that help students understand complex topics
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00FFB3&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+portfolio!+✨;Feel+free+to+explore+my+projects+🚀;Let's+build+something+awesome+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00FFB3&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+portfolio!+✨;Feel+free+to+explore+my+projects+;Let's+build+something+awesome+together!" />
 </p>
 
