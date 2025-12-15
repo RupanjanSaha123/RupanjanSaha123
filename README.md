@@ -98,7 +98,7 @@ A group of Python apps I'm building that help students understand complex topics
 
 ## 🔹 Core Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react" height="120" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,matlab" height="120" />
 </p>
 
 ---
