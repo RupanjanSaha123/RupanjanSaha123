@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Rupanjan+Saha+%7C+Developer+%7C+ECE+Student;I+Build+Tools+That+Make+Engineering+Concepts+Come+Alive+;Welcome+to+My+Project+Showcase!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Rupanjan+Saha+%7C+Developer+%7C+ECE+Student;Passionate+Artist+;Welcome+to+My+Project+Showcase!" />
 </p>
 
 ---
