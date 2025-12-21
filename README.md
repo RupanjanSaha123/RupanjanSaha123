@@ -182,18 +182,6 @@ Automated IV characteristic plotter for semiconductor devices (EDC - Electronics
 
 </div>
 
----
-
-## 🏆 Achievements & Contributions
-
-<div align="center">
-
-### 🏅 GitHub Trophies
-
-<a href="https://github.com/RupanjanSaha123">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=RupanjanSaha123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
-</a>
-
 ### 📌 Pinned Repositories
 
 <a href="https://github.com/RupanjanSaha123/Realtimesignalvisualiser">
@@ -252,13 +240,9 @@ Automated IV characteristic plotter for semiconductor devices (EDC - Electronics
 
 **⭐ Don't forget to star repositories you find interesting!**
 
----
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RupanjanSaha123/RupanjanSaha123/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+>
