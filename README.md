@@ -163,7 +163,7 @@ Automated IV characteristic plotter for semiconductor devices (EDC - Electronics
 
 ### 🎨 Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
 </p>
 
 ### 🛠️ Design & Development Tools
