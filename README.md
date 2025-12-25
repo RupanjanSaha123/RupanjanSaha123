@@ -67,7 +67,7 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects Portfolio
+## 🚀 Featured Projects
 
 <div align="center">
 
