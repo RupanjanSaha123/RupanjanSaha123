@@ -40,10 +40,10 @@ class Rupanjan:
         self.learning = ["React", "Advanced CSS", "Python GUIs"]
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for dropping by! Let's build something amazing together")
     
     def get_status(self):
-        return "🔭 Building interactive apps & engineering tools"
+        return "Building interactive apps & engineering tools"
 
 me = Rupanjan()
 me.say_hi()
