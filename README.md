@@ -138,9 +138,18 @@ Automated IV characteristic plotter for semiconductor devices (EDC - Electronics
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupanjanSaha123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
 </a>
 
-<a href="https://github.com/RupanjanSaha123">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupanjanSaha123&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-</a>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Consistency beats intensity. Building every day.</i>
+</p>
+
 
 ### 📊 Contribution Graph
 
