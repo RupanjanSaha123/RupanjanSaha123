@@ -142,7 +142,7 @@ Automated IV characteristic plotter for semiconductor devices (EDC - Electronics
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=RupanjanSaha123&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
