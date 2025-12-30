@@ -127,39 +127,6 @@ Automated IV characteristic plotter for semiconductor devices (EDC - Electronics
 
 ---
 
-## 📊 GitHub Analytics & Stats
-
-<div align="center">
-
-### 📈 Profile Statistics
-
-<a href="https://github.com/RupanjanSaha123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RupanjanSaha123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupanjanSaha123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
-</a>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RupanjanSaha123&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Consistency beats intensity. Building every day.</i>
-</p>
-
-
-### 📊 Contribution Graph
-
-<a href="https://github.com/RupanjanSaha123">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RupanjanSaha123&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&title_color=00d9ff&area_color=00d9ff" alt="Contribution Graph"/>
-</a>
-
-</div>
-
----
 
 ## 🧰 Tech Stack & Skills
 
