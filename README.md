@@ -1,4 +1,4 @@
-<!-- Animated Header with Wave Effect -->
+
 <div align="center">
   
 #  Welcome to Rupanjan's Digital Workspace
