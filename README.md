@@ -116,6 +116,9 @@ Automated IV characteristic plotter for semiconductor devices (EDC - Electronics
 ![](https://nirzak-streak-stats.vercel.app/?user=RupanjanSaha123&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupanjansaha123&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RupanjanSaha123&theme=radical" width="300" />
+</p>
+
 ### 🖥️ Web UI & Frontend Experiments
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
