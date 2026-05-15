@@ -26,7 +26,7 @@
 ## `> whoami`
 
 ```ts
-const rupanjar = {
+const rupanjan = {
   name:       "Rupanjan Saha",
   role:       "Frontend Developer",
   location:   "India 🇮🇳",
