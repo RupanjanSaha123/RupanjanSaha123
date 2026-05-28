@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rupanjan%20Saha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Undergrad%20%7C%20Signal%20Wizard%20%7C%20Python%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Just+an+ECE+undergrad...;...hoping+to+do+something+%F0%9F%98%8F;Building+cool+things+from+Kolkata+%F0%9F%87%AE%F0%9F%87%B3;Signals.+Semiconductors.+Python.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Just+an+ECE+undergrad...;...hoping+to+do+something+%F0%9F%98%8F;Building+cool+things+%F0%9F%87%AE%F0%9F%87%B3;Signals.+Semiconductors.+Python.)](https://git.io/typing-svg)
 
 <br/>
 
