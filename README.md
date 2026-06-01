@@ -19,29 +19,6 @@
 
 ---
 
-## 🧬 About Me
-
-```python
-class RupanjanSaha:
-    def __init__(self):
-        self.name        = "Rupanjan Saha"
-        self.alias       = "RupanjanSaha123"
-        self.role        = "B.Tech ECE Undergrad"
-        self.location    = "Kolkata, India 🇮🇳"
-        self.vibe        = "😏 Okk"
-        self.currently   = ["Building signal visualizers",
-                            "Analyzing semiconductor devices",
-                            "Learning something new every day"]
-        self.goal        = "Just hoping to do something... 🚀"
-
-    def say_hi(self):
-        print("Hey! Welcome to my GitHub. Stick around 👀")
-
-me = RupanjanSaha()
-me.say_hi()
-```
-
----
 
 ## 🛠️ Tech Stack & Languages
 
